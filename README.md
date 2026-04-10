@@ -83,4 +83,3 @@ Practical architectural guidance for making critical decisions about Salesforce 
 
 ---
 
-*Generated for TDX 2026 - Scan QR code for digital access*
